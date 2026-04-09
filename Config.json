@@ -19,13 +19,13 @@
         {
             "title": "Windows 11 Professional",
             "description": "Traditional Chinese/25H2",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/windows.png",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/windows.jpg",
             "id": "windows_11_pro_tc_25h2"
         },
         {
             "title": "Ubuntu 26.04",
             "description": "English/26.04",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/ubuntu.png",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/ubuntu.jpg",
             "id": "ubuntu_26.04"
         }
     ],
@@ -33,7 +33,7 @@
         {
             "title": "Steam v1.0.5",
             "description": "D3DMetal",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.png",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
             "id": "Steam_v1.0.5"
         }
     ]
