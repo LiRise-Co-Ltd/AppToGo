@@ -1,0 +1,40 @@
+{
+    "banner": {
+        "en" : {
+            "enabled": true,
+            "title": "AppToGo",
+            "description": "New Launcher version is now available, download and experience it now!",
+            "image": "https://lirise-co-ltd.github.io/AppToGo/Assets/banner-1.jpg",
+            "url": null
+        },
+        "zh" : {
+            "enabled": true,
+            "title": "AppToGo",
+            "description": "全新 Launcher 版本已經上線，立即下載體驗！",
+            "image": "https://lirise-co-ltd.github.io/AppToGo/Assets/banner-1.jpg",
+            "url": "https://tw.gametogo.io/"
+        }
+    },
+    "os": [
+        {
+            "title": "Windows 11 Professional",
+            "description": "Traditional Chinese/25H2",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/windows.png",
+            "id": "windows_11_pro_tc_25h2"
+        },
+        {
+            "title": "Ubuntu 26.04",
+            "description": "English/26.04",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/ubuntu.png",
+            "id": "ubuntu_26.04"
+        }
+    ],
+    "gamebox": [
+        {
+            "title": "Steam v1.0.5",
+            "description": "D3DMetal",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.png",
+            "id": "Steam_v1.0.5"
+        }
+    ]
+}
