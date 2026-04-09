@@ -8,5 +8,16 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
 
+      <item>
+      <title>Version 7.0.1</title>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>7.0.1</sparkle:shortVersionString>
+      <pubDate>Thu, 09 Apr 2026 02:21:10 +0000</pubDate>
+      <enclosure
+        url="https://github.com/LiRise-Co-Ltd/AppToGo/releases/download/launcher/AppToGo-7.0.1.zip"
+        sparkle:edSignature="zy/zEe5SyEW4BDH+LBuvwDsLMAeT9wrm78+ltnGUAngDWWDNcDCXRuAx5bzeJz3eB21S/bT0P7RVzdXjhp0IAg=="
+        length="19447813"
+        type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
