@@ -29,12 +29,5 @@
             "id": "ubuntu_26.04"
         }
     ],
-    "gamebox": [
-        {
-            "title": "Steam v1.0.5",
-            "description": "D3DMetal",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
-            "id": "Steam_v1.0.5"
-        }
-    ]
+    "gamebox": []
 }
