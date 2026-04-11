@@ -1,13 +1,13 @@
 {
     "banner": {
-        "en" : {
+        "en": {
             "enabled": true,
             "title": "AppToGo",
             "description": "New Launcher version is now available, download and experience it now!",
             "image": "https://lirise-co-ltd.github.io/AppToGo/Assets/banner-1.jpg",
             "url": null
         },
-        "zh" : {
+        "zh": {
             "enabled": true,
             "title": "AppToGo",
             "description": "全新 Launcher 版本已經上線，立即下載體驗！",
@@ -17,16 +17,44 @@
     },
     "os": [
         {
-            "title": "Windows 11",
-            "description": "Professional / Traditional Chinese / 25H2",
+            "title": "Windows 11 - 250GB",
+            "description": "Professional / 25H2 / Traditional Chinese",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/windows.jpg",
-            "id": "windows_11_pro_tc_25h2"
+            "id": "Win11_25H2_zh-tw_250",
+            "size": 250
         },
         {
-            "title": "Ubuntu 26.04",
-            "description": "LTS / English / 26.04",
+            "title": "Windows 11 - 500GB",
+            "description": "Professional / 25H2 / Traditional Chinese",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/windows.jpg",
+            "id": "Win11_25H2_zh-tw_500",
+            "size": 500
+        },
+        {
+            "title": "Windows 11 - 1TB",
+            "description": "Professional / 25H2 / Traditional Chinese",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/windows.jpg",
+            "id": "Win11_25H2_zh-tw_1000",
+            "size": 1000
+        },
+        {
+            "title": "Windows 11 - 2TB",
+            "description": "Professional / 25H2 / Traditional Chinese",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/windows.jpg",
+            "id": "Win11_25H2_zh-tw_2000",
+            "size": 2000
+        },
+        {
+            "title": "Ubuntu 25.10 - 500GB",
+            "description": "Desktop / English",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/ubuntu.jpg",
-            "id": "ubuntu_26.04"
+            "id": "Ubuntu_25.10"
+        },
+        {
+            "title": "macOS 26",
+            "description": "Coming soon!",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/macos.jpg",
+            "id": "macOS_26"
         }
     ],
     "gamebox": [
@@ -37,10 +65,28 @@
             "id": "Steam_v5.0.5"
         },
         {
-            "title": "Rockstar v5.0.77",
-            "description": "DXVK",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/rockstar.jpg",
-            "id": "Rockstar_v5.0.77"
+            "title": "Age of Empires II Definitive Edition",
+            "description": "Steam",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/aoe2_de.jpg",
+            "id": "Age_of_Empires_II_Definitive_Edition_v1.0.5"
+        },
+        {
+            "title": "Monster Hunter World",
+            "description": "Steam",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/monster_hunter_world.jpg",
+            "id": "Monster_Hunter_World_v1.0.5"
+        },
+        {
+            "title": "R.E.P.O.",
+            "description": "Steam",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/repo.jpg",
+            "id": "R.E.P.O._v1.0.5"
+        },
+        {
+            "title": "The Witcher 3 Wild Hunt",
+            "description": "Steam",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/witcher3.jpg",
+            "id": "The_Witcher_3_Wild_Hunt_v1.0.5"
         }
     ]
 }
