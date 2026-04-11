@@ -35,6 +35,12 @@
             "description": "D3DMetal / Share Drive",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
             "id": "Steam_v5.0.5"
+        },
+        {
+            "title": "Rockstar v5.0.77",
+            "description": "DXVK",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/rockstar.jpg",
+            "id": "Rockstar_v5.0.77"
         }
     ]
 }
