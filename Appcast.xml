@@ -14,7 +14,7 @@
       <sparkle:shortVersionString>9.0.1</sparkle:shortVersionString>
       <pubDate>Sat, 11 Apr 2026 09:01:41 +0000</pubDate>
       <enclosure
-        url=""
+        url="https://github.com/LiRise-Co-Ltd/AppToGo/releases/download/launcher/AppToGo-9.0.1.zip"
         sparkle:edSignature="kcnzJWFBEbRXIlCPRrmVlTLpRA+mrRJ+s7XG2xskwUumWyO5aRlQuLdqubVvAfaI4lzf5eILwBTfyFlmNorFBA=="
         length="19446079"
         type="application/octet-stream"/>
