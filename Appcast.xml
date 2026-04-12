@@ -8,7 +8,18 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
 
-                  <item>
+                      <item>
+      <title>Version 9.0.3</title>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>9.0.3</sparkle:shortVersionString>
+      <pubDate>Sun, 12 Apr 2026 10:33:54 +0000</pubDate>
+      <enclosure
+        url=""
+        sparkle:edSignature="Tmd+HqU4qYeztnTV6kVCuageqo9QVDJHs41est+5rTGw9tZFCrmCZa79zIBuQgl72n/bopLbb0zAhO68ezb8BA=="
+        length="19577033"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 9.0.2</title>
       <sparkle:version>25</sparkle:version>
       <sparkle:shortVersionString>9.0.2</sparkle:shortVersionString>
