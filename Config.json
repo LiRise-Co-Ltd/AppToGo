@@ -65,6 +65,12 @@
             "id": "Steam_v5.0.6"
         },
         {
+            "title": "Steam v5.0.6 TW",
+            "description": "D3DMetal / Sharable Drive / Traditional Chinese",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
+            "id": "Steam_v5.0.6_TW"
+        },
+        {
             "title": "Age of Empires II Definitive Edition",
             "description": "Steam",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/aoe2_de.jpg",
