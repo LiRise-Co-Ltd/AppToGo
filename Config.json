@@ -59,10 +59,10 @@
     ],
     "gamebox": [
         {
-            "title": "Steam v5.0.5",
-            "description": "D3DMetal / Share Drive",
+            "title": "Steam v5.0.6",
+            "description": "D3DMetal / Sharable Drive",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
-            "id": "Steam_v5.0.5"
+            "id": "Steam_v5.0.6"
         },
         {
             "title": "Age of Empires II Definitive Edition",
