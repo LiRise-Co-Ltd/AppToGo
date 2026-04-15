@@ -12,20 +12,9 @@
       <sparkle:shortVersionString>9.0.4</sparkle:shortVersionString>
       <pubDate>Mon, 13 Apr 2026 17:56:57 +0000</pubDate>
       <enclosure
-        url="https://github.com/LiRise-Co-Ltd/AppToGo/releases/download/launcher/AppToGo-9.0.4.zip"
+        url="https://apptogo-zh.ap-south-1.linodeobjects.com/AppToGo-9.0.4.zip"
         sparkle:edSignature="JXH9oEqWDEnJiyKbHU+WJ+BCcqWs6ljtXdC/bCWgMiQ0emJV7RO0f673jSDb6VcJs+5mzxqPPg4tQe6e5JSsCA=="
         length="19583344"
-        type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 9.0.3</title>
-      <sparkle:version>26</sparkle:version>
-      <sparkle:shortVersionString>9.0.3</sparkle:shortVersionString>
-      <pubDate>Sun, 12 Apr 2026 10:34:24 +0000</pubDate>
-      <enclosure
-        url="https://github.com/LiRise-Co-Ltd/AppToGo/releases/download/launcher/AppToGo-9.0.3.zip"
-        sparkle:edSignature="Tmd+HqU4qYeztnTV6kVCuageqo9QVDJHs41est+5rTGw9tZFCrmCZa79zIBuQgl72n/bopLbb0zAhO68ezb8BA=="
-        length="19577033"
         type="application/octet-stream"/>
     </item>
   </channel>
