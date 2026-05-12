@@ -7,7 +7,18 @@
     <link>https://tw.gametogo.io</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
-                                        <item>
+                                            <item>
+      <title>Version 9.1.2</title>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>9.1.2</sparkle:shortVersionString>
+      <pubDate>Tue, 12 May 2026 08:14:09 +0000</pubDate>
+      <enclosure
+        url=""
+        sparkle:edSignature="9+ACn9zIZON10Kqnza7PpeVi33ssEwL8fU4jJdVpqWzZkv13mQ2lvXcdWRBenPWTLGxXEpu+91FeBc8b8UdIDA=="
+        length="19600114"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 9.1.1</title>
       <sparkle:version>38</sparkle:version>
       <sparkle:shortVersionString>9.1.1</sparkle:shortVersionString>
