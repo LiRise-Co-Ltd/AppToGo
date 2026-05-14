@@ -7,7 +7,18 @@
     <link>https://tw.gametogo.io</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
-                                            <item>
+                                                <item>
+      <title>Version 9.1.3</title>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>9.1.3</sparkle:shortVersionString>
+      <pubDate>Thu, 14 May 2026 09:13:53 +0000</pubDate>
+      <enclosure
+        url="https://github.com/LiRise-Co-Ltd/AppToGo/releases/download/launcher/AppToGo-9.1.3.zip"
+        sparkle:edSignature="CHNPjnsqR4LJ743CHyucloZLMERVKyPGClhqX2cTNzhbql5Wc50asJ5slJnL/LKLv4Ifa0jeFPhUpJX0oq48Dw=="
+        length="19570218"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 9.1.2</title>
       <sparkle:version>39</sparkle:version>
       <sparkle:shortVersionString>9.1.2</sparkle:shortVersionString>
