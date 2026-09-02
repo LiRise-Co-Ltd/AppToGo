@@ -65,6 +65,12 @@
             "id": "Steam_v5.0.6"
         },
         {
+            "title": "Steam v5.0.6 TW",
+            "description": "D3DMetal / Sharable Drive / Traditional Chinese",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
+            "id": "Steam_v5.0.6_TW"
+        },
+        {
             "title": "Steam v5.0.7 TW",
             "description": "D3DMetal / Sharable Drive / Traditional Chinese",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
