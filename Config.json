@@ -59,6 +59,12 @@
     ],
     "gamebox": [
         {
+            "title": "Battle.net v6.0.0",
+            "description": "D3DMetal / Wine 11 / CX 26.3",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
+            "id": "Battle.net_v6.0.0"
+        },
+        {
             "title": "Steam v5.0.6",
             "description": "D3DMetal / Sharable Drive",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
