@@ -59,6 +59,18 @@
     ],
     "gamebox": [
         {
+            "title": "Steam DX11 v5.1.0",
+            "description": "DirectX 11 / Sharable Drive",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
+            "id": "Steam_DX11_v5.1.0"
+        },
+        {
+            "title": "Steam DX12 v5.1.0",
+            "description": "DirectX 12 / Sharable Drive",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
+            "id": "Steam_DX12_v5.1.0"
+        },
+        {
             "title": "Battle.net v6.0.0",
             "description": "Wine 11 / CX 26.3",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/battlenet.jpg",
