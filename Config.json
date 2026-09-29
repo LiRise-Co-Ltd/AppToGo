@@ -59,12 +59,6 @@
     ],
     "gamebox": [
         {
-            "title": "Steam DX11 v5.1.0",
-            "description": "DirectX 11 / Sharable Drive",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
-            "id": "Steam_DX11_v5.1.0"
-        },
-        {
             "title": "Steam DX12 v5.5.0",
             "description": "DirectX 12 / Sharable Drive",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
@@ -81,42 +75,6 @@
             "description": "Wine 11 / CX 26.3",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/epic.jpg",
             "id": "EpicGames_v6.0.0"
-        },
-        {
-            "title": "Steam v5.0.6",
-            "description": "D3DMetal / Sharable Drive",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
-            "id": "Steam_v5.0.6"
-        },
-        {
-            "title": "Steam v5.0.6 TW",
-            "description": "D3DMetal / Sharable Drive / Traditional Chinese",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
-            "id": "Steam_v5.0.6_TW"
-        },
-        {
-            "title": "Age of Empires II Definitive Edition",
-            "description": "Steam",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/aoe2_de.jpg",
-            "id": "Age_of_Empires_II_Definitive_Edition_v1.0.5"
-        },
-        {
-            "title": "Monster Hunter World",
-            "description": "Steam",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/monster_hunter_world.jpg",
-            "id": "Monster_Hunter_World_v1.0.5"
-        },
-        {
-            "title": "R.E.P.O.",
-            "description": "Steam",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/repo.jpg",
-            "id": "R.E.P.O._v1.0.5"
-        },
-        {
-            "title": "The Witcher 3 Wild Hunt",
-            "description": "Steam",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/witcher3.jpg",
-            "id": "The_Witcher_3_Wild_Hunt_v1.0.5"
         }
     ]
 }
