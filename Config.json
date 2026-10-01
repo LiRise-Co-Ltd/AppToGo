@@ -59,6 +59,12 @@
     ],
     "gamebox": [
         {
+            "title": "Steam DX12 v5.5.2",
+            "description": "DirectX 11, 12 / 64 bit / Sharable Drive",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
+            "id": "Steam_DX12_v5.5.2"
+        },
+        {
             "title": "Steam DX12 v5.5.1",
             "description": "DirectX 11, 12 / 64 bit / Sharable Drive",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
