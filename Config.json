@@ -81,6 +81,12 @@
             "description": "Wine 11 / CX 26.3",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/epic.jpg",
             "id": "EpicGames_v6.0.0"
+        },
+        {
+            "title": "AOE2 DE v5.1.0",
+            "description": "DirectX 11 / Steam / Sharable Drive",
+            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/aoe2_de.jpg",
+            "id": "AOE2_DE_v5.1.0"
         }
     ]
 }
