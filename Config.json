@@ -59,16 +59,10 @@
     ],
     "gamebox": [
         {
-            "title": "Steam DX12 v5.5.2",
+            "title": "Steam DX12 v5.5.3",
             "description": "DirectX 11, 12 / 64 bit / Sharable Drive",
             "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
-            "id": "Steam_DX12_v5.5.2"
-        },
-        {
-            "title": "Steam DX12 v5.5.0",
-            "description": "DirectX 12 / Sharable Drive",
-            "icon": "https://lirise-co-ltd.github.io/AppToGo/Assets/steam.jpg",
-            "id": "Steam_DX12_v5.5.0"
+            "id": "Steam_DX12_v5.5.3"
         },
         {
             "title": "Battle.net v6.0.1",
